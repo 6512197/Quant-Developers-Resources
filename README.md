@@ -460,6 +460,6 @@ There are various positions that you can continuously monitor. Common positions 
 
 This list includes a mix of commercial banks, investment banks, and financial services companies with significant banking operations.
 
-## Star History
+## Star History ...
 
 [![Star History Chart](https://api.star-history.com/svg?repos=cybergeekgyan/Quant-Developers-Resources&type=Date)](https://www.star-history.com/#cybergeekgyan/Quant-Developers-Resources&Date)
